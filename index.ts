@@ -11,7 +11,7 @@ x = 20;
 // VAriable type
 let biggenet: boolean = true;
 let toatal: number = 0;
-let name: string = "Jatin";
+let name: string = "Jatins";
 let n: null = null;
 let u: undefined = undefined;
 let myArray: number[] = [1, 2, 3];
